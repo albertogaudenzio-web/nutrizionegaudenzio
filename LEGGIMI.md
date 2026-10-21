@@ -8,8 +8,8 @@ Usa "Trova e sostituisci in tutti i file" (in VS Code: Ctrl+Shift+H) su tutta la
 
 | Cerca | Sostituisci con | Esempio |
 |---|---|---|
-| `https://www.tuodominio.it` | il tuo dominio, senza `/` finale | `https://www.albertogaudenziodietista.it` |
-| `+39 000 000 0000` | il numero come vuoi mostrarlo | `+39 347 123 4567` |
+| `https://www.tuodominio.it` OK | il tuo dominio, senza `/` finale | `https://www.albertogaudenziodietista.it` |
+| `+39 000 000 0000` OK | il numero come vuoi mostrarlo | `+39 347 123 4567` |
 | `+390000000000` | il numero per i link "chiama" (senza spazi) | `+393471234567` |
 | `390000000000` | il numero WhatsApp (senza + e senza spazi) | `393471234567` |
 | `info@tuodominio.it` | la tua email | `info@albertogaudenziodietista.it` |
