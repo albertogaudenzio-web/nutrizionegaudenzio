@@ -11,7 +11,7 @@ Usa "Trova e sostituisci in tutti i file" (in VS Code: Ctrl+Shift+H) su tutta la
 | `https://www.tuodominio.it` OK | il tuo dominio, senza `/` finale | `https://www.albertogaudenziodietista.it` |
 | `+39 000 000 0000` OK | il numero come vuoi mostrarlo | `+39 347 123 4567` |
 | `+390000000000` OK | il numero per i link "chiama" (senza spazi) | `+393471234567` |
-| `390000000000` | il numero WhatsApp (senza + e senza spazi) | `393471234567` |
+| `390000000000` OK | il numero WhatsApp (senza + e senza spazi) | `393471234567` |
 | `info@tuodominio.it` | la tua email | `info@albertogaudenziodietista.it` |
 | `https://www.instagram.com/tuoprofilo/` | il link al tuo profilo Instagram | |
 
