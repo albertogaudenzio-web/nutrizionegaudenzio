@@ -12,7 +12,7 @@ Usa "Trova e sostituisci in tutti i file" (in VS Code: Ctrl+Shift+H) su tutta la
 | `+39 000 000 0000` OK | il numero come vuoi mostrarlo | `+39 347 123 4567` |
 | `+390000000000` OK | il numero per i link "chiama" (senza spazi) | `+393471234567` |
 | `390000000000` OK | il numero WhatsApp (senza + e senza spazi) | `393471234567` |
-| `info@tuodominio.it` | la tua email | `info@albertogaudenziodietista.it` |
+| `info@tuodominio.it` OK | la tua email | `info@albertogaudenziodietista.it` |
 | `https://www.instagram.com/tuoprofilo/` | il link al tuo profilo Instagram | |
 
 Attenzione all'ordine: sostituisci prima `+390000000000`, poi `390000000000`.
